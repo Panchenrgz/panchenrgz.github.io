@@ -1,0 +1,43 @@
+## 安装包记录
+
+- alacritty: 终端
+- blueman: 蓝牙设置
+- clipit: 剪贴板
+- dunst: 系统通知
+- fcitx5-im: 输入法
+- fcitx5-chiness-addons: 提供云拼音等
+- fcitx5-rime: 中州韵引擎
+- feh: 图片查看，桌面背景设置
+- firefox: 浏览器
+- fish: 友好的 SHELL
+- flameshot: 截图工具
+- kvantum: qt主题管理
+- lxappearance: 美观设置（字体，主题，光标等）
+- marker: markdown编辑器
+- mojave-gtk-theme-git: 苹果系统窗口样式主题
+- neovim: new vim
+- netease-clound-music: 网易云音乐
+- network-manager-applet: 网络管理托盘图标工具
+- numlockx: 开启数字小键盘
+- nvidia-prime: 英伟达驱动
+- nvidia-settings: 英伟达设置
+- nvidia-utils: ---
+- papirus-icon-theme: 图标主题
+- pcmanfm: 文件浏览器
+- picom: 渲染器，合成器
+- pulseaudio: 音频驱动
+- pulseaudio-alsa: 
+- pulseaudio-bluetooth: 蓝牙音频支持
+- rofi: 程序启动器，窗口切换，命令执行
+- steam: steam客户端
+- tlp: 省电工具
+- vim-fcitx: vim智能切换输入法状态插件
+- vlc: 视频播放器
+- volumeicon: 托盘音量图标
+- wps-office-cn: wps
+- wps-office-mui-zh-cn:
+- wqy-microhei-lite: 文泉驿微米黑字体
+- wqy-zenhei: 文泉驿正黑字体
+- xautolock: 自动锁屏
+- xfce4-power-manager: 电源管理
+- yay: AUR工具
