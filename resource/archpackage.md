@@ -19,7 +19,8 @@
 - netease-clound-music: 网易云音乐
 - network-manager-applet: 网络管理托盘图标工具
 - numlockx: 开启数字小键盘
-- nvidia-prime: 英伟达驱动
+- nvidia: 英伟达驱动
+- nvidia-prime: 英伟达驱动管理
 - nvidia-settings: 英伟达设置
 - nvidia-utils: ---
 - papirus-icon-theme: 图标主题
